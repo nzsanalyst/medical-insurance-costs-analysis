@@ -14,13 +14,13 @@ This repository contains my personal project materials and presentations on anal
   - Runs AIC-based forward/backward/stepwise selection  
   - Evaluates the final model on a test split
 
-- **`Medical_Insurance_Cost_EDA.pptx`**  
+- **`Medical_Insurance_Cost_EDA.pdf`**  
   Slide deck covering the exploratory data analysis phase:
   - Scatter plots (e.g., Age vs. Charges)  
   - Pairwise scatter and correlation plots  
   - Initial insights and data relationships
 
-- **`Medical_Insurance_Cost_Modeling.pptx`**  
+- **`Medical_Insurance_Cost_Modeling.pdf`**  
   Final presentation with full workflow and findings:
   - EDA recap  
   - Regression model summaries (AIC, BIC, MSE, adjusted R²)  
@@ -41,8 +41,8 @@ This repository contains my personal project materials and presentations on anal
 
 ## 🔍 How to Browse
 
-1. Open the **`Medical_Insurance_Cost_EDA.pptx`** to see my initial exploration of the data.  
-2. Review the **`Medical_Insurance_Cost_Modeling.pptx`** for the full modeling process and results.  
+1. Open the **`Medical_Insurance_Cost_EDA.pdf`** to see my initial exploration of the data.  
+2. Review the **`Medical_Insurance_Cost_Modeling.pdf`** for the full modeling process and results.  
 3. Inspect **`Medical_Insurance_analysis.R`** if you want to see the exact code and steps I used.
 
 That's it—this repo is a record of my work and findings for this analytics project.
